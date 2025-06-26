@@ -1,5 +1,4 @@
 # task3
-# task3
 Book REST API with Node.js & Express
 A simple RESTful API built using Node.js and Express to manage a list of books (stored in memory). This project demonstrates basic CRUD operations (Create, Read, Update, Delete) and is ideal for beginners learning backend development.
 
